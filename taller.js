@@ -10,4 +10,3 @@ let valorNulo = null;
 
 console.log(sinValor + valorNulo)
 
-
